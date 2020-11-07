@@ -18,17 +18,17 @@ Introduction
 Familiar with  c ++, css, html languages
 Learning java script
  
-###education
+education
 
 ---
 
- + Degree: Bachelor
+ + Degree: computer engineering student ( bachelor's degree ) 
    - Computer engineering major
  - Input: 1398
    University: Payame Noor, North Tehran
   
   
-###languages
+languages
     
 ---
     
