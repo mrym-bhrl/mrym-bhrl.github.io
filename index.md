@@ -33,9 +33,9 @@ languages
 ---
     
 + Persian  
-- Native
+   - Native
 + English
- - Normal
+   - Normal
  
  
 ---
