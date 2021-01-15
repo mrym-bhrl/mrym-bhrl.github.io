@@ -37,11 +37,10 @@ languages
 + English
    - Normal
  
+ ---
+
 [رزومه فارسی](/resume-fa)
 
-
- 
----
 
 
 
