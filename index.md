@@ -40,3 +40,6 @@ languages
  
 ---
  
+[رزومه فارسی](/resume-fa)
+
+
