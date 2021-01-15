@@ -39,7 +39,7 @@ languages
  
  ---
 
-[رزومه فارسی](/resume-fa)
+[رزومه فارسی](/resume-fa.md)
 
 
 
